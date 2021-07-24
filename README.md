@@ -2,8 +2,11 @@
 
 This repository consits of files to remove your Caps Lock key function from Boot
 
-You do **NOT** have to download any files manually just - Follow the Installation, automatically driver will be installed to your pc through shell script made by me.
+You do **NOT** have to download any files manually just - Follow the Installation, automatically key will be disabled in your pc through shell script made by me.
 
+This repository conists of files that will disable your Caps Lock key from Boot, it uses a systemd service to enable and start the service which will turn off caps key at system boot and two other programs such as xmodmap to keycode (#capskey) as NoSymbol and xdotool to toggle on/off caps lock if its stuck.
+
+*GOOD LUCK ")*
 
 **Installation:**
 
@@ -30,3 +33,5 @@ You do **NOT** have to download any files manually just - Follow the Installatio
     ./removecaps.sh
             
  ***Note: Your PC needs a REBOOT after the installation is complete***
+ 
+ *Only after the reboot Caps Lock will stop working*
