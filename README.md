@@ -21,9 +21,9 @@ You do **NOT** have to download any files manually just - Follow the Installatio
    
     cd CapslockRemoved/
 
-   4. Grant Permissions for execution of the shell script
+   4. Grant Permissions for execution of the shell scripts
 
-    chmod +x removecaps.sh
+    chmod +x && chmod +x removecaps.sh 
 
    5. To run the downloaded shell script
    
