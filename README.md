@@ -15,7 +15,7 @@ You do **NOT** have to download any files manually just - Follow the Installatio
 
    2. Locate to your Downloads directory and download the files
 
-    cd Downloads/ && git clone 
+    cd Downloads/ && git clone https://github.com/Kratosgp/CapslockRemoved.git
     
    3. Locate to the File directory 
    
