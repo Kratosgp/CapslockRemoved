@@ -4,7 +4,7 @@ sudo pacman -S xorg-xmodmap xdotool
 
 sudo cp Caps_Lock.sh /usr/bin/
 
-sudo cp sudo cp caps.service /etc/systemd/system/
+sudo cp caps.service /etc/systemd/system/
 
 sudo systemctl start caps.service
 
