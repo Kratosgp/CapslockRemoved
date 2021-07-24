@@ -19,7 +19,7 @@ You do **NOT** have to download any files manually just - Follow the Installatio
     
    3. Locate to the File directory 
    
-    cd 
+    cd CapslockRemoved/
 
    4. Grant Permissions for execution of the shell script
 
