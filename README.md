@@ -23,7 +23,7 @@ You do **NOT** have to download any files manually just - Follow the Installatio
 
    4. Grant Permissions for execution of the shell scripts
 
-    chmod +x && chmod +x removecaps.sh 
+    chmod +x Caps_Lock.sh && chmod +x removecaps.sh 
 
    5. To run the downloaded shell script
    
