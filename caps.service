@@ -1,0 +1,8 @@
+[Unit]
+Description=Caps Lock off
+
+[Service]
+ExecStart=/usr/bin/Caps_Lock.sh
+
+[Install]
+WantedBy=multi-user.target
