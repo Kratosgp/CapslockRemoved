@@ -12,6 +12,8 @@ sudo systemctl start caps.service
 
 sudo systemctl enable caps.service
 
+xdotool key Caps_Lock
+
 read -p "Do you wish to reboot now?(Y/n): " Input
 
 if [[ $Input = "n" ]];
