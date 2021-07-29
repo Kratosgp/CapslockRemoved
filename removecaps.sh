@@ -10,6 +10,8 @@ sudo systemctl start caps.service
 
 sudo systemctl enable caps.service
 
+sudo systemctl daemon-reload
+
 read -p "Do you wish to reboot now?(Y/n): " Input
 
 if [[ $Input = "n" ]];
