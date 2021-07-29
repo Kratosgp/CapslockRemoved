@@ -12,6 +12,8 @@ sudo systemctl start caps.service
 
 sudo systemctl enable caps.service
 
+xmodmap -e "keycode 66 = NoSymbol"
+
 xdotool key Caps_Lock
 
 read -p "Do you wish to reboot now?(Y/n): " Input
